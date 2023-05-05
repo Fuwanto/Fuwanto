@@ -6,6 +6,7 @@
 <h2 align="center">💫 Sobre mi:</h2>
 <p align="center">Soy Antonella, Estudiante de Licenciatura en Sistemas.</p>
 
+- 📫 Mail de contacto: **agusrojasmc@gmail.com**
 
 <h2 align="center">🌐 Me podes encontrar en:</h2>
 
