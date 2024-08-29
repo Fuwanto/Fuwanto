@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Estudiante de Estudiante de Licenciatura en Sistemas (UNLP).</h2>
+<h2 align="center">Estudiante de Licenciatura en Sistemas (UNLP).</h2>
 
 ###
 
