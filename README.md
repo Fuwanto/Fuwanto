@@ -2,7 +2,7 @@
 <h3 align="center">Bachelor's Degree in Systems student (UNLP).</h3>
 
 - 🔭 I’m currently working on [daikamoku](https://github.com/Fuwanto/daikamoku)
-- 🌱 I’m currently learning **Networks and Communications, Concurrent Programming, Docker, TensorFlow, Pandas, Heroku**
+- 🌱 I’m currently learning **Networks and Communications, Concurrent Programming, AWS, Docker**
 - 📫 Contact me at: [denisseanto11@hotmail.com](mailto:denisseanto11@hotmail.com)
 
 <h3 align="left">Connect with me:</h3>
