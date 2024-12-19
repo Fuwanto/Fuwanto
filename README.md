@@ -2,7 +2,7 @@
 <h3 align="center">Bachelor's Degree in Systems student (UNLP).</h3>
 
 <p align="center">
-  - 🌱 I’m currently working on my **Full-Stack Project**: <a href="https://github.com/Fuwanto/Full-stack" target="_blank">GitHub Repository</a>
+  - 🌱 I’m currently working on my : <a href="https://github.com/Fuwanto/Full-stack" target="_blank"><strong>Full-Stack Repository</strong></a>
 </p>
 <p align="center">
   - 📫 Contact me at: <a href="mailto:denisseanto11@hotmail.com">denisseanto11@hotmail.com</a>
