@@ -12,10 +12,6 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47muadmfvs5peyqvw1m649p4g4oogmfex1hbzwux4p&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="funny gif" width="600" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuwanto&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-</p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://instagram.com/fuwa.nto" target="_blank" rel="noreferrer">
