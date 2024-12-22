@@ -2,7 +2,7 @@
 <h3 align="center">Bachelor's Degree in Systems student (UNLP).</h3>
 
 <p align="center">
-  🌱 I’m currently working on my : <a href="https://github.com/Fuwanto/Full-stack" target="_blank"><strong>Full-Stack Repository</strong></a>
+  🌱 I’m currently working on my: <a href="https://github.com/Fuwanto/Full-stack" target="_blank"><strong>Full-Stack Repository</strong></a>
 </p>
 <p align="center">
   📫 Contact me at: <a href="mailto:denisseanto11@hotmail.com">denisseanto11@hotmail.com</a>
@@ -58,8 +58,11 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="50" height="50"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="50" height="50"/>
   </a>
 </p>
 
