@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47muadmfvs5peyqvw1m649p4g4oogmfex1hbzwux4p&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="funny gif" width="600" />
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47hc1k87wlnbzboy68sum6qir3nlv0ydr1osykus4i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="funny gif" width="300" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fuwanto&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" alt="funny gif" width="300" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -57,12 +59,6 @@
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="fastapi" width="50" height="50"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="50" height="50"/>
   </a>
 </p>
 
