@@ -1,40 +1,14 @@
+
+<h1 align="center">Hola 👋, soy Antonella.<br>Estudiante de Licenciatura en Sistemas (UNLP).</h1>
+
 <br clear="both">
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/7YjvlYIMRDcYM/giphy.gif?cid=790b7611nr3viafbqz3ag1z91iphfu98x0x1y7bctnds7u4d&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
-
-<h1 align="center">Hola 👋, soy Antonella.<br>Estudiante de Licenciatura en Sistemas (UNLP).</h1>
-
-###
-
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/L1ESBJXp5HrsSHbEob/giphy.gif?cid=790b7611artzvydwhv5gy6ujyvppmutdlztm1h3czfrwg0f9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
-
-<h1 align="center">Hi 👋, I'm Antonella.<br>Bachelor's Degree in Systems student (UNLP).</h1>
-
-###
-
-
-<div align="center">
-  <img height="200" src="https://memeprod.ap-south-1.linodeobjects.com/user-maker-thumbnail/5b65d1a8f7947c819c0e52317a416ac7.gif"  />
-</div>
-
-###
-
-
-<h1 align="center">こんにちは 👋、アントネラです。<br>システム学の学士課程の学生 (UNLP)。</h1>
-
-###
-
 <br clear="both">
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Fuwanto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
