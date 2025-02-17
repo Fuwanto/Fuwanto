@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/antonella-denisse-cuenca-695854323/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="denisseanto11@hotmail.com" target="_blank">
+  <a href="mailto:denisseanto11@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://www.instagram.com/fuwa.nto/" target="_blank">
