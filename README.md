@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, soy Antonella.<br>Estudiante de Licenciatura en Sistemas (UNLP).</h1>
+<h1 align="center">Hi 👋, I'm Antonella.<br>Bachelor's Degree in Systems student (UNLP).</h1>
 
 <br clear="both">
 
