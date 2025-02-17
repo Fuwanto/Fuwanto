@@ -1,36 +1,36 @@
-<img align="left" height="200" src="https://media.giphy.com/media/7YjvlYIMRDcYM/giphy.gif?cid=790b7611nr3viafbqz3ag1z91iphfu98x0x1y7bctnds7u4d&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<h1 align="left">Hola 👋, soy Antonella.<br>Estudiante de Licenciatura en Sistemas (UNLP).</h1>
-
-###
-
 <br clear="both">
 
-<p align="left"></p>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/7YjvlYIMRDcYM/giphy.gif?cid=790b7611nr3viafbqz3ag1z91iphfu98x0x1y7bctnds7u4d&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/L1ESBJXp5HrsSHbEob/giphy.gif?cid=790b7611artzvydwhv5gy6ujyvppmutdlztm1h3czfrwg0f9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<h1 align="center">Hola 👋, soy Antonella.<br>Estudiante de Licenciatura en Sistemas (UNLP).</h1>
 
 ###
 
-<h1 align="left">Hi 👋, I'm Antonella.<br>Bachelor's Degree in Systems student (UNLP).</h1>
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/L1ESBJXp5HrsSHbEob/giphy.gif?cid=790b7611artzvydwhv5gy6ujyvppmutdlztm1h3czfrwg0f9&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
 
-<br clear="both">
 
-<p align="left"></p>
-
-###
-
-<img align="left" height="200" src="https://memeprod.ap-south-1.linodeobjects.com/user-maker-thumbnail/5b65d1a8f7947c819c0e52317a416ac7.gif"  />
+<h1 align="center">Hi 👋, I'm Antonella.<br>Bachelor's Degree in Systems student (UNLP).</h1>
 
 ###
 
-<h1 align="left">こんにちは 👋、アントネラです。<br>システム学の学士課程の学生 (UNLP)。</h1>
+
+<div align="center">
+  <img height="200" src="https://memeprod.ap-south-1.linodeobjects.com/user-maker-thumbnail/5b65d1a8f7947c819c0e52317a416ac7.gif"  />
+</div>
+
+###
+
+
+<h1 align="center">こんにちは 👋、アントネラです。<br>システム学の学士課程の学生 (UNLP)。</h1>
 
 ###
 
@@ -42,8 +42,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -78,8 +76,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Fuwanto/Fuwanto/output/snake.svg" alt="Snake animation" />
 
