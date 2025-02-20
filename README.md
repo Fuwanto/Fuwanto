@@ -3,7 +3,7 @@
 | Hi 👋, I'm Antonella.<br>Bachelor's Degree in Systems student (UNLP). | <img src="https://media.giphy.com/media/L1ESBJXp5HrsSHbEob/giphy.gif?cid=790b76118ckmqq9towdenso73c6a3hvpe2ry4qc29wrx35a1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200"> |
 |:-----------------------------------------------------------------------------:|:------------------------------------------------------------:|
 | <img src="https://media.giphy.com/media/7YjvlYIMRDcYM/giphy.gif" width="200"> | Hola 👋, soy Antonella.<br>Estudiante de Licenciatura en Sistemas (UNLP). |
-| こんにちは 👋、私はアントネラです。<br>システム学の学生 (UNLP)。 | <img src="https://i.pinimg.com/originals/20/40/11/204011a96ba3ca3648e3ae15ea444212.gif" width="200"> |
+| こんにちは 👋、アントネラです。UNLPでシステムを勉強しています。 | <img src="https://i.pinimg.com/originals/20/40/11/204011a96ba3ca3648e3ae15ea444212.gif" width="200"> |
 
 </div>
 
