@@ -1,22 +1,23 @@
-
-<h1 align="center">Hi 👋, I'm Antonella.<br>Bachelor's Degree in Systems student (UNLP).</h1>
-
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/7YjvlYIMRDcYM/giphy.gif?cid=790b7611nr3viafbqz3ag1z91iphfu98x0x1y7bctnds7u4d&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+| <h1>Hi 👋, I'm Antonella.<br>Bachelor's Degree in Systems student (UNLP).</h1> | <img src="https://media.giphy.com/media/L1ESBJXp5HrsSHbEob/giphy.gif?cid=790b76118ckmqq9towdenso73c6a3hvpe2ry4qc29wrx35a1&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400"> |
+|:-----------------------------------------------------------------------------:|:------------------------------------------------------------:|
+| <img src="https://media.giphy.com/media/7YjvlYIMRDcYM/giphy.gif" width="400"> | <h1>Hola 👋, soy Antonella.<br>Estudiante de Licenciatura en Sistemas (UNLP).</h1> |
+| <h1>こんにちは 👋、私はアントネラです。<br>システム学の学生 (UNLP)。</h1> | <img src="https://i.pinimg.com/originals/20/40/11/204011a96ba3ca3648e3ae15ea444212.gif" width="400"> |
+
 </div>
 
-<br clear="both">
+
+
+
+
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fuwanto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<div align="left">
+  
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -46,15 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://raw.githubusercontent.com/Fuwanto/Fuwanto/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Fuwanto/Fuwanto/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/antonella-denisse-cuenca-695854323/" target="_blank">
@@ -67,5 +61,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
