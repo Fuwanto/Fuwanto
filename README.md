@@ -8,8 +8,13 @@
 </div>
 
 
+## 🚀 Currently Working On  
 
+I'm developing **[Dev-Tree](https://github.com/Fuwanto/dev-tree)**, a **Linktree clone** for developers using:  
+- **Frontend**: Next.js, React, TypeScript  
+- **Backend**: Node.js, Express.js  
 
+More updates coming soon! 🚀
 
 
 
