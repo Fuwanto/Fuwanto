@@ -20,8 +20,6 @@ I'm developing **[Dev-Tree](https://github.com/Fuwanto/dev-tree)**, a **Linktree
 
 More updates coming soon! 🚀  
 
-<img src="https://media0.giphy.com/media/fAmnJKCwuXtDiEhNwg/giphy.gif" width="150"/>
-
 </div>
 
 
