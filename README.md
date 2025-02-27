@@ -8,14 +8,21 @@
 </div>
 
 
+<div align="center">
+
 ## 🚀 Currently Working On  
 
 I'm developing **[Dev-Tree](https://github.com/Fuwanto/dev-tree)**, a **Linktree clone** for developers using:  
-- **Frontend**: Next.js, React, TypeScript  
-- **Backend**: Node.js, Express.js  
 
-More updates coming soon! 🚀
+🛠 **Tech Stack**  
+**Frontend:** Next.js, React, TypeScript  
+**Backend:** Node.js, Express.js  
 
+More updates coming soon! 🚀  
+
+<img src="https://media0.giphy.com/media/fAmnJKCwuXtDiEhNwg/giphy.gif?cid=6c09b952c8nozjcgz6c5hiqcisp2jehqg2clbr8sq53hepmh&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="150"/>
+
+</div>
 
 
 <div align="center">
