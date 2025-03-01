@@ -5,22 +5,16 @@
 | <img src="https://media.giphy.com/media/7YjvlYIMRDcYM/giphy.gif" width="200"> | Hola 👋, soy Antonella.<br>Estudiante de Licenciatura en Sistemas (UNLP). |
 | こんにちは 👋、アントネラです。UNLPでシステムを勉強しています。 | <img src="https://i.pinimg.com/originals/20/40/11/204011a96ba3ca3648e3ae15ea444212.gif" width="200"> |
 
+
+
+### 🚀 Currently Working On
+| <p align="center">I'm developing <strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong>, a <strong>Linktree clone</strong> for developers using: <br><br> 🛠 <strong>Tech Stack</strong> <br> <strong>Frontend:</strong> Next.js, React, TypeScript <br> <strong>Backend:</strong> Node.js, Express.js </p> |
+|-------------------------|
+| <p align="center">More updates coming soon! 🚀</p> |
+
+
 </div>
 
-
-<div align="center">
-
-## 🚀 Currently Working On  
-
-I'm developing **[Dev-Tree](https://github.com/Fuwanto/dev-tree)**, a **Linktree clone** for developers using:  
-
-🛠 **Tech Stack**  
-**Frontend:** Next.js, React, TypeScript  
-**Backend:** Node.js, Express.js  
-
-More updates coming soon! 🚀  
-
-</div>
 
 
 <div align="center">
