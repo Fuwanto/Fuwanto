@@ -8,7 +8,7 @@
 
 
 ### 🚀 Currently Working On
-| <p align="center">I'm developing <strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong>, a <strong>Linktree clone</strong> for developers using: <br><br> 🛠 <strong>Tech Stack</strong> <br> React, TypeScript, Node.js -> Express.js </p> |
+| <p align="center">I'm developing <strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong>, a <strong>Linktree clone</strong> for developers using: <br><br> 🛠 <strong>Tech Stack: MERN</strong> <br> <strong> FrontEnd:</strong> React + TypeScript. <br> <strong> BackEnd:</strong> Node.js (Express.js) + TypeScript </p> |
 |-------------------------|
 | <p align="center">More updates coming soon! 🚀</p> |
 
