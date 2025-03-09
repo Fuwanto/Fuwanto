@@ -7,10 +7,11 @@
 
 
 
-### 🚀 Currently Working On
-| <p align="center">I'm developing <strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong>, a <strong>Linktree clone</strong> for developers using: <br><br> 🛠 <strong>Tech Stack: MERN</strong> <br> <strong> FrontEnd:</strong> React + TypeScript. <br> <strong> BackEnd:</strong> Node.js (Express.js) + TypeScript </p> |
-|-------------------------|
-| <p align="center">More updates coming soon! 🚀</p> |
+### 🚀 Recent Launches  
+| <p align="center">I've launched <strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong>, a <strong>Linktree clone</strong> for developers using: <br><br> 🆕 🛠 <strong>Tech Stack: MERN</strong> <br> <strong> FrontEnd:</strong> React + TypeScript + Tailwind CSS v4.0. <br> <strong> BackEnd:</strong> Node.js (Express.js) + TypeScript. <br><br> 🔗 <strong>Live Demo:</strong> <a href="https://fuwanto-devtree.netlify.app/">Dev-Tree on Netlify</a> </p> |  
+|-------------------------|  
+| <p align="center">More projects coming soon! 🚀</p> |  
+
 
 
 </div>
