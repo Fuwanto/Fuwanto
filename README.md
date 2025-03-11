@@ -7,10 +7,15 @@
 
 
 
-### 🚀 Recent Launches  
-| <p align="center">I've launched <strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong>, a <strong>Linktree clone</strong> for developers using: <br><br> 🆕 🛠 <strong>Tech Stack: MERN</strong> <br> <strong> FrontEnd:</strong> React + TypeScript + Tailwind CSS v4.0. <br> <strong> BackEnd:</strong> Node.js (Express.js) + TypeScript. <br><br> 🔗 <strong>Live Demo:</strong> <a href="https://fuwanto-devtree.netlify.app/">Dev-Tree on Netlify</a> </p> |  
-|-------------------------|  
-| <p align="center">More projects coming soon! 🚀</p> |  
+### 🚀 What am I up to lately? 🔥💡
+
+| 🔨 Working On 🏗️ | 🔥 Last Project 🚀 |  
+|-------------------------|-------------------------|  
+|<p></p><p align="center">I'm developing <strong>CashTracker</strong>, a <strong>budget and expense manager</strong> using: <br><br> 🛠 <strong>Tech Stack:</strong> <br> <strong> FrontEnd:</strong> Next.js (App Router) + Tailwind CSS v4.0. <br> <strong> BackEnd:</strong> Express.js + Sequelize (PostgreSQL). <br> <strong> Mailing:</strong> Mailtrap. </p> | <p align="center">I've launched <strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong>, a <strong>Linktree clone</strong> for developers using: <br><br> 🆕 🛠 <strong>Tech Stack: MERN</strong> <br> <strong> FrontEnd:</strong> React + TypeScript + Tailwind CSS v4.0. <br> <strong> BackEnd:</strong> Node.js (Express.js) + TypeScript. </p> |
+| <p align="center"> 🚀 Stay tuned for updates! </p> | <p align="center"> 🔗 <strong>Live Demo:</strong> <a href="https://fuwanto-devtree.netlify.app/">Dev-Tree on Netlify</a> </p> |
+
+
+  
 
 
 
