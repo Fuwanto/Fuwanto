@@ -11,13 +11,12 @@
 
 ## 🚀 Latest Releases
 
-| Project | Description | Demo |
-|---------|-------------|------|
-| **[CashTracker](https://github.com/Fuwanto/cash-tracker)** | <p align="center">💸 Personal budget and expense manager built with:<br><br>🛠 <strong>Stack:</strong><br>➡️ <strong>FrontEnd:</strong> Next.js (App Router) + Tailwind CSS v4.0<br>➡️ <strong>BackEnd:</strong> Express.js + Sequelize (PostgreSQL)<br>➡️ <strong>Mailing:</strong> Mailtrap</p> | <p align="center">🔗 <strong>Live:</strong> <a href="https://cash-tracker-psi.vercel.app/">cash-tracker-psi.vercel.app</a></p> |
-| **[Dev-Tree](https://github.com/Fuwanto/dev-tree)** | <p align="center">🌲 A Linktree clone for developers built with the MERN stack:<br><br>🛠 <strong>Stack:</strong><br>➡️ <strong>FrontEnd:</strong> React + TypeScript + Tailwind CSS v4.0<br>➡️ <strong>BackEnd:</strong> Node.js (Express.js) + TypeScript</p> | <p align="center">🔗 <strong>Live:</strong> <a href="https://fuwanto-devtree.netlify.app/">fuwanto-devtree.netlify.app</a></p> |
+| Project & Tech Stack | Live Demo |
+|----------------------|-----------|
+| <p align="center"><strong><a href="https://github.com/Fuwanto/cash-tracker">CashTracker</a></strong><br><br>💸 A personal budget and expense manager.<br><br>🛠 <strong>Stack:</strong><br>• <strong>FrontEnd:</strong> Next.js (App Router) + Tailwind CSS v4.0<br>• <strong>BackEnd:</strong> Express.js + Sequelize (PostgreSQL)<br>• <strong>Mailing:</strong> Mailtrap</p> | <p align="center">🔗 <a href="https://cash-tracker-psi.vercel.app/">cash-tracker-psi.vercel.app</a></p> |
+| <p align="center"><strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong><br><br>🌲 A Linktree clone for developers.<br><br>🛠 <strong>Stack:</strong><br>• <strong>FrontEnd:</strong> React + TypeScript + Tailwind CSS v4.0<br>• <strong>BackEnd:</strong> Node.js (Express.js) + TypeScript</p> | <p align="center">🔗 <a href="https://fuwanto-devtree.netlify.app/">fuwanto-devtree.netlify.app</a></p> |
 
 
-  
 
 
 
