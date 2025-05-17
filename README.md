@@ -11,10 +11,17 @@
 
 ## 🚀 Latest Releases
 
-| Project & Tech Stack | Live Demo |
-|----------------------|-----------|
-| <p align="center"><strong><a href="https://github.com/Fuwanto/cash-tracker">CashTracker</a></strong><br><br>💸 A personal budget and expense manager.<br><br>🛠 <strong>Stack:</strong><br>• <strong>FrontEnd:</strong> Next.js (App Router) + Tailwind CSS v4.0<br>• <strong>BackEnd:</strong> Express.js + Sequelize (PostgreSQL)<br>• <strong>Mailing:</strong> Mailtrap</p> | <p align="center">🔗 <a href="https://cash-tracker-psi.vercel.app/">cash-tracker-psi.vercel.app</a></p> |
-| <p align="center"><strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong><br><br>🌲 A Linktree clone for developers.<br><br>🛠 <strong>Stack:</strong><br>• <strong>FrontEnd:</strong> React + TypeScript + Tailwind CSS v4.0<br>• <strong>BackEnd:</strong> Node.js (Express.js) + TypeScript</p> | <p align="center">🔗 <a href="https://fuwanto-devtree.netlify.app/">fuwanto-devtree.netlify.app</a></p> |
+| Project & Tech Stack |
+|----------------------|
+| <p align="center"><strong><a href="https://github.com/Fuwanto/cash-tracker">CashTracker</a></strong><br><br>💸 A personal budget and expense manager.<br><br>🛠 <strong>Stack:</strong><br>• <strong>FrontEnd:</strong> Next.js (App Router) + Tailwind CSS v4.0<br>• <strong>BackEnd:</strong> Express.js + Sequelize (PostgreSQL)<br>• <strong>Mailing:</strong> Mailtrap</p> <br> <p align="center"><strong>🌐 Live Demo: </strong> <a href="https://cash-tracker-psi.vercel.app/">cash-tracker-psi.vercel.app</a></p>|
+| <p align="center"><strong><a href="https://github.com/Fuwanto/dev-tree">Dev-Tree</a></strong><br><br>🌲 A Linktree clone for developers.<br><br>🛠 <strong>Stack:</strong><br>• <strong>FrontEnd:</strong> React + TypeScript + Tailwind CSS v4.0<br>• <strong>BackEnd:</strong> Node.js (Express.js) + TypeScript</p> <br> <p align="center"><strong>🌐 Live Demo: </strong> <a href="https://fuwanto-devtree.netlify.app/">fuwanto-devtree.netlify.app</a></p>|
+
+## 🛠 Currently Working On
+
+| Project & Tech Stack |
+|----------------------|
+| <p align="center"><strong><a href="https://github.com/Fuwanto/Look-Walk">Look&Walk</a></strong><br><br>🛍️ E-commerce for sneakers, sunglasses and hoodies.<br><br>🚧 <strong>Status:</strong> In development<br><br>🧠 <strong>Description:</strong><br>Look&Walk is an online store focused on offering a modern, fast and responsive shopping experience across devices.<br><br>🛠 <strong>Stack:</strong><br>• <strong>FrontEnd:</strong> Next.js + TypeScript + Tailwind CSS v4.0<br>• <strong>BackEnd:</strong> NestJS + TypeScript<br>• <strong>Images:</strong> Cloudinary</p> |
+
 
 
 
